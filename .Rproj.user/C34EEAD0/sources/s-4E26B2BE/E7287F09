@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551862058257.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3881305815",
+    "id" : "E7287F09",
+    "lastKnownWriteTime" : 1551862215,
+    "last_content_update" : 1551862215575,
+    "path" : "~/GitHub/xiaoss/2019-03-06.Rmd",
+    "project_path" : "2019-03-06.Rmd",
+    "properties" : {
+        "cursorPosition" : "1,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
